@@ -1,3 +1,3 @@
 # ASMS (Authentication & Subscriptions Management System)
 
-This sis a multitenant system to manage authentication and subscription services for organizations.
+Authentication & Subscriptions Management Systems for a multitenant django application
